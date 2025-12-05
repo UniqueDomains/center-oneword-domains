@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.CENTER one word domai
 | aaron.center      | resell    | 88       | 32%    | 5      | NameCheap, Inc. | 08/08/2024 12:06 | 08/08/2026 12:06 |
 | abactinal.center  | available | 50       | 1%     | 9      |                 |                  |                  |
 | abaft.center      | available | 43       | 2%     | 5      |                 |                  |                  |
-| abandoned.center  | available | 58       | 10%    | 9      |                 |                  |                  |
+| abandoned.center  | available | 58       | 7%     | 9      |                 |                  |                  |
 | abashed.center    | available | 60       | 2%     | 7      |                 |                  |                  |
 | abasic.center     | available | 54       | 2%     | 6      |                 |                  |                  |
 | abatable.center   | available | 54       | 1%     | 8      |                 |                  |                  |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.CENTER one word domai
 | abaxial.center    | available | 54       | 2%     | 7      |                 |                  |                  |
 | abbatial.center   | available | 50       | 1%     | 8      |                 |                  |                  |
 | abdicable.center  | available | 50       | 1%     | 9      |                 |                  |                  |
-| abdominal.center  | available | 82       | 1%     | 9      |                 |                  |                  |
+| abdominal.center  | available | 82       | 5%     | 9      |                 |                  |                  |
 | abdominous.center | available | 56       | 1%     | 10     |                 |                  |                  |
 | abducens.center   | available | 54       | 1%     | 8      |                 |                  |                  |
 | abducent.center   | available | 68       | 1%     | 8      |                 |                  |                  |
@@ -41,7 +41,7 @@ If you want to search & filters the complete database of [.CENTER one word domai
 | aberdonian.center | available | 68       | 1%     | 10     |                 |                  |                  |
 | aberrant.center   | available | 74       | 7%     | 8      |                 |                  |                  |
 | abeyant.center    | available | 56       | 2%     | 7      |                 |                  |                  |
-| abhorrent.center  | available | 54       | 1%     | 9      |                 |                  |                  |
+| abhorrent.center  | available | 54       | 3%     | 9      |                 |                  |                  |
 | abient.center     | available | 54       | 1%     | 6      |                 |                  |                  |
 | ability.center    | resell    | 92       | 18%    | 7      | DNSPod, Inc.    | 07/07/2024 17:00 | 07/07/2026 17:00 |
 | abit.center       | available | 66       | 16%    | 5      |                 |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CENTER one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
