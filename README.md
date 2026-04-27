@@ -1,22 +1,22 @@
-# Available .CENTER One-Word Domains (8,279)
+# Available .CENTER One-Word Domains (10,865)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C280%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C279%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C865%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .center one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .center one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,865 domains** on the canonical page below.
 
-**Public extract:** 8,280 rows · **Live catalog:** 8,279 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,865 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/center`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CENTER one-word domai
 
 ### Files
 
-- `center.csv` — public CSV extract (8,280 rows)
-- `center.json` — public JSON extract (8,280 rows)
+- `center.csv` — public CSV extract (1,000 rows)
+- `center.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| nimble.center    | available | $7.99     | $41.99        | 94             | 33     | 6      | name.com                                            |
-| simply.center    | resell    | $7.99     | —             | 68             | 41     | 6      | Sav.com, LLC                                        |
-| athletics.center | premium   | $260      | $260          | 69             | 52     | 9      | namecheap                                           |
-| wiz.center       | available | $7.99     | $41.99        | 80             | 32     | 3      | name.com                                            |
-| black.center     | resell    | —         | —             | 100            | 98     | 5      | Sav.com, LLC                                        |
-| all.center       | premium   | $82.50    | $82.50        | 88             | 48     | 3      | name.com                                            |
-| abstract.center  | available | $7.99     | $41.99        | 108            | 31     | 8      | name.com                                            |
-| box.center       | resell    | —         | —             | 68             | 78     | 3      | Sav.com, LLC - 18                                   |
-| elite.center     | premium   | $250      | $250          | 90             | 42     | 5      | name.com                                            |
-| trinity.center   | available | $7.99     | $41.99        | 72             | 30     | 7      | name.com                                            |
-| discover.center  | resell    | —         | —             | 66             | 75     | 8      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| about.center     | premium   | $26       | $26           | 94             | 37     | 5      | namecheap                                           |
-| four.center      | available | $7.99     | $41.99        | 66             | 30     | 4      | name.com                                            |
-| boss.center      | resell    | —         | —             | 76             | 73     | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| Media.center     | premium   | $520      | $520          | 78             | 37     | 5      | namecheap                                           |
-| cipher.center    | available | $7.99     | $33.99        | 86             | 29     | 6      | name.com                                            |
-| wise.center      | resell    | —         | —             | 98             | 71     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| like.center      | premium   | $500      | $500          | 84             | 35     | 4      | name.com                                            |
-| weird.center     | available | $7.99     | $41.99        | 64             | 29     | 5      | name.com                                            |
-| get.center       | resell    | —         | —             | 88             | 69     | 3      | Dynadot Inc                                         |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| etc.center          | available | $7.99     | —             | 58             | 34     | 3      | name.com          |
+| marketing.center    | resell    | —         | —             | 78             | 48     | 9      | Porkbun LLC       |
+| photos.center       | premium   | $28       | $28           | 54             | 28     | 6      | namecheap         |
+| Trex.center         | available | $42.98    | —             | 80             | 24     | 5      | namecheap         |
+| prompts.center      | resell    | —         | —             | 54             | 39     | 7      | Sav.com, LLC - 40 |
+| girls.center        | premium   | $250      | —             | 83             | 23     | 5      | name.com          |
+| deeplearning.center | available | $7.99     | —             | 74             | 23     | 13     | name.com          |
+| tokens.center       | resell    | —         | —             | 51             | 36     | 6      | Automattic Inc.   |
+| veterans.center     | premium   | $250      | —             | 56             | 23     | 8      | name.com          |
+| pls.center          | available | $7.99     | —             | 60             | 23     | 3      | name.com          |
+| trading.center      | resell    | —         | —             | 78             | 35     | 7      | Porkbun LLC       |
+| apartments.center   | premium   | $242      | $242          | 60             | 21     | 10     | namesilo          |
+| products.center     | available | $7.99     | —             | 60             | 23     | 8      | name.com          |
+| whatnot.center      | resell    | —         | —             | 58             | 33     | 8      | Spaceship, Inc.   |
+| resources.center    | premium   | $28       | $28           | 58             | 21     | 9      | namecheap         |
+| investors.center    | available | $7.99     | —             | 60             | 23     | 9      | name.com          |
+| teams.center        | resell    | —         | —             | 62             | 32     | 5      | Spaceship, Inc.   |
+| dresses.center      | premium   | $500      | —             | 58             | 10     | 7      | name.com          |
+| Mikey.center        | available | $42.98    | —             | 70             | 21     | 5      | namecheap         |
+| holidays.center     | resell    | —         | —             | 78             | 23     | 8      | DNSPod, Inc.      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,280-row public sample | 8,279 live domains                               |
+| 1,000-row public sample | 10,865 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CENTER One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CENTER One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
