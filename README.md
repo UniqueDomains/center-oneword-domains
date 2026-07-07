@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .center one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,002 domains · **Median ask:** $11.79 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-07-06
+**Last updated:** 2026-07-07
 **Canonical page:** `https://unique.domains/domains/tld/center`
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CENTER One-Word Domains*. Version 2026-07-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CENTER One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
