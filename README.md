@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .center one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,764 domains · **Median ask:** $8.94 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/center`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| don.center  | available | $7.99     | —             | high           | low    | 3      | name.com                                     |
-| age.center  | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| aid.center  | premium   | $500      | —             | medium         | low    | 3      | name.com                                     |
-| flu.center  | available | $7.99     | —             | medium         | low    | 3      | name.com                                     |
-| ant.center  | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| ala.center  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                     |
-| IDK.center  | available | $7.99     | —             | medium         | low    | 3      | name.com                                     |
-| bed.center  | resell    | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                   |
-| kgb.center  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                     |
-| lip.center  | available | $7.99     | —             | high           | low    | 3      | name.com                                     |
-| dog.center  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                              |
-| kid.center  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
-| non.center  | available | $7.99     | —             | high           | low    | 3      | name.com                                     |
-| fog.center  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                 |
-| see.center  | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                     |
-| NYT.center  | available | $7.99     | —             | high           | low    | 3      | name.com                                     |
-| key.center  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                  |
-| burn.center | premium   | $500      | —             | high           | low    | 4      | name.com                                     |
-| oar.center  | available | $7.99     | —             | medium         | low    | 3      | name.com                                     |
-| mid.center  | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                 |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| sorry.center | available | $7.99     | $41.99        | high           | low    | 5      | name.com                                     |
+| don.center   | available | $7.99     | —             | high           | low    | 3      | name.com                                     |
+| age.center   | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| aid.center   | premium   | $500      | —             | medium         | low    | 3      | name.com                                     |
+| flu.center   | available | $7.99     | —             | medium         | low    | 3      | name.com                                     |
+| ant.center   | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| ala.center   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                     |
+| IDK.center   | available | $7.99     | —             | medium         | low    | 3      | name.com                                     |
+| bed.center   | resell    | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                   |
+| kgb.center   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                     |
+| lip.center   | available | $7.99     | —             | high           | low    | 3      | name.com                                     |
+| dog.center   | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                              |
+| kid.center   | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
+| non.center   | available | $7.99     | —             | high           | low    | 3      | name.com                                     |
+| fog.center   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                 |
+| see.center   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                     |
+| NYT.center   | available | $7.99     | —             | high           | low    | 3      | name.com                                     |
+| key.center   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                  |
+| burn.center  | premium   | $500      | —             | high           | low    | 4      | name.com                                     |
+| oar.center   | available | $7.99     | —             | medium         | low    | 3      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CENTER One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CENTER One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
