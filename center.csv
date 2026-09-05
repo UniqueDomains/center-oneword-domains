@@ -116,7 +116,7 @@ a3a3836c-d7a0-44d0-b81a-8ced6b08e2f6,autolytic.center,available,4.98,42.98,low,l
 96f5e662-abe6-4448-869c-a0b22fade101,viewer.center,available,7.99,,medium,low,6,name.com,,
 77e38e1d-cada-4d58-8f7f-19871bcde0c0,buttonlike.center,available,4.98,42.98,low,low,10,namecheap,,
 6b3ec323-4a12-4892-af21-af752fa8810a,lxxiv.center,available,4.98,42.98,low,low,5,namecheap,,
-1c998786-fd83-4e1a-a677-6f7362dac780,hiding.center,available,7.99,41.99,high,low,6,name.com,,
+1c998786-fd83-4e1a-a677-6f7362dac780,hiding.center,available,4.98,42.98,low,low,6,namecheap,,
 dcc9ada4-43d5-4566-a01e-1102dfeda7a7,allwheeldrive.center,available,7.99,,high,low,15,name.com,,
 00d3d774-e276-4157-a174-206af2e2a2f5,quaternity.center,available,4.98,42.98,low,low,10,namecheap,,
 9ee40940-cfe5-4f5e-85ed-07d954e0da4c,neighboring.center,available,7.99,,low,low,11,name.com,,
@@ -442,7 +442,7 @@ acd69f7a-ac48-42cb-8e39-f1c2eb9fe46a,BigMac.center,available,7.99,,high,low,7,na
 44c87d55-8ba1-434d-bfc9-bbc103cc6cb3,fretful.center,available,4.98,42.98,low,low,7,namecheap,,
 499e5b7b-e000-4d6e-8228-1a5294b51e04,squirrel.center,available,7.99,,high,low,8,name.com,,
 0a62f5d6-a31f-4aa1-a4a7-0a3ae5171c29,shoeless.center,available,4.98,42.98,low,low,8,namecheap,,
-e57df803-f4a7-4cf6-95fe-0e7b1c2e86c7,windows.center,premium,500,500,medium,medium,7,name.com,,
+e57df803-f4a7-4cf6-95fe-0e7b1c2e86c7,windows.center,premium,512,512,medium,medium,7,namesilo,,
 fc1db052-a481-4c31-90bf-ba488f57916d,accented.center,available,4.98,42.98,low,low,8,namecheap,,
 fec271bd-c032-4d55-af06-ef1ef02329d1,colors.center,resell,,,high,low,6,"NameSilo, LLC",23/02/2015 18:00,23/02/2027 18:00
 ac401457-9867-42ca-96d3-cc23c8dd77b1,dickens.center,available,7.99,,high,low,7,name.com,,
@@ -472,7 +472,7 @@ a1a3d312-aea6-4a1e-90dd-0b8ff318bf1b,collision.center,resell,,,medium,low,9,1API
 a27add98-7c6e-490e-8203-a6818aed8bd6,inthewakeof.center,available,7.99,,medium,low,14,name.com,,
 71dbcd6a-fcc1-4863-9043-86f273cc33f9,illusion.center,available,7.99,,medium,low,8,name.com,,
 73b64a59-960d-44b8-9be3-6d04071fb2f5,atsixandseven.center,available,7.99,,medium,low,16,name.com,,
-b20d0089-759a-40c1-baa8-e3f4db6226f2,prevention.center,premium,500,,high,low,10,name.com,,
+b20d0089-759a-40c1-baa8-e3f4db6226f2,prevention.center,premium,500,500,medium,low,10,name.com,,
 5b5b48c7-6622-47b0-bead-708fbf334cab,knowsomeone.center,available,7.99,,medium,low,12,name.com,,
 32e6db91-9457-45bd-aab5-bd201a466414,carrying.center,available,7.99,,high,low,8,name.com,,
 41c272ec-0ad3-49f1-b5d7-ba52741cdfa6,adjustive.center,available,4.98,42.98,low,low,9,namecheap,,
@@ -671,7 +671,7 @@ e6df62a4-ce72-4315-a319-cd5762e22b20,greatgranddaughter.center,available,7.99,,h
 e4921899-6fb1-44f2-9c36-ae8c85313787,adrift.center,available,4.98,42.98,low,low,6,namecheap,,
 d9ea731f-a9c9-4605-9054-a8630591548e,abducens.center,available,4.98,42.98,low,low,8,namecheap,,
 bbbdc216-2025-4187-a976-863c959b8389,fortynine.center,available,4.98,42.98,low,low,10,namecheap,,
-59a51fd3-b517-44c5-8c8c-8307d19b1a94,bite.center,available,7.99,,high,low,4,name.com,,
+59a51fd3-b517-44c5-8c8c-8307d19b1a94,bite.center,available,4.98,42.98,medium,low,4,namecheap,,
 f5d5a108-6b8c-429a-8ff3-32e05bf4e539,normality.center,available,7.99,,high,low,9,name.com,,
 e6a167c8-ef38-46cf-a964-32c1ce26edb1,moveon.center,available,7.99,41.99,high,low,7,name.com,,
 b28b791b-e5b2-4757-b13a-6a1ddf03f8e3,retiring.center,available,7.99,,high,low,8,name.com,,
@@ -960,7 +960,6 @@ a3f9c64e-ab01-4522-b558-344ad2e9768d,continually.center,available,7.99,,medium,l
 a11758e7-4a46-4c72-8bff-a68356778c57,atoxic.center,available,4.98,42.98,low,low,6,namecheap,,
 ec2569af-f772-47cc-b1c0-b81037e6436f,resemblance.center,available,7.99,,medium,low,11,name.com,,
 b17cea50-8e8a-4b12-b43c-b22d671de78d,jenny.center,available,7.99,,high,low,5,name.com,,
-2ea50dfe-a2f6-4e6b-b9f8-03cd952420c4,power.center,resell,,,high,medium,5,"Spaceship, Inc.",10/09/2019 01:31,10/09/2026 01:31
 9179ba75-ef24-41f5-8415-9a4fa2965cdc,scowling.center,available,4.98,42.98,low,low,8,namecheap,,
 ed1a8dda-48b4-4fbf-be1d-be0d5e28c2bc,DSLR.center,available,7.99,,high,low,4,name.com,,
 9f0685cf-d94a-4e0e-bcc3-205130c2e280,sise.center,available,4.98,42.98,low,low,4,namecheap,,
@@ -999,3 +998,4 @@ b9e48d0f-c700-46aa-9944-e044d3e09011,abkhasian.center,available,4.98,42.98,low,l
 f0299bc1-c51e-440d-8ded-80c79ac35997,speedlimiter.center,available,7.99,,medium,low,13,name.com,,
 ba04af68-d595-496b-9483-8bb13ace0b8f,promotion.center,resell,,,high,low,9,"Sav.com, LLC",05/10/2025 00:38,05/10/2026 00:38
 6963eddb-16c3-40be-9f55-3adfe1ea502e,text.center,resell,,,high,medium,4,"DNSPod, Inc.",25/08/2024 17:00,25/08/2026 17:00
+b40fb7eb-95ae-45de-8127-b8c43b9b0fa1,teacher.center,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",16/03/2020 08:48,16/03/2027 08:48
