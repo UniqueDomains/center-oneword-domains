@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .center one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,464 domains · **Median ask:** $7.94 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/tld/center`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | don.center  | available | $7.99     | —             | high           | low    | 3      | name.com                                     |
-| age.center  | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| age.center  | resell    | —         | —             | medium         | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
 | aid.center  | premium   | $500      | —             | medium         | low    | 3      | name.com                                     |
 | flu.center  | available | $7.99     | —             | medium         | low    | 3      | name.com                                     |
 | ant.center  | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CENTER One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CENTER One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
