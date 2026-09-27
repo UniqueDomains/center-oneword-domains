@@ -7,7 +7,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 36af5f75-c74d-44a5-aea7-9377e5cb11f0,spinous.center,available,4.98,42.98,medium,low,7,namecheap,,,
 4df4240f-9127-456b-8a3c-e68ced0e248b,governing.center,available,4.98,42.98,high,low,9,namecheap,,,20/08/2026 17:20
 48059029-7cc0-4898-ae45-9d255b308ed7,sweetsop.center,available,4.98,42.98,medium,low,8,namecheap,,,19/09/2026 10:27
-b99d0260-ff7e-4def-8bf2-f00268b6a96b,neo.center,resell,,,high,medium,3,"Chengdu West Dimension Digital Technology Co., Ltd.",25/10/2023 15:15,25/10/2026 15:15,03/09/2026 15:19
 dcbba225-215d-4e62-abde-5c288f43c39f,thud.center,available,4.98,42.98,high,low,4,namecheap,,,11/09/2026 15:12
 b251d3df-5d24-4bac-a97f-348e903bf821,adversity.center,available,5.99,32.49,high,low,9,namesilo,,,17/09/2026 10:54
 b623629c-0fe2-4db4-8e13-64e116204ec1,catechu.center,available,4.98,42.98,medium,low,7,namecheap,,,16/09/2026 20:04
@@ -47,6 +46,7 @@ c7f8b9df-e04a-4a82-be0d-ffe6c29db62a,unrecorded.center,available,4.98,42.98,medi
 30432aed-052e-4f1c-9647-9a8ea40f5f14,supervised.center,available,4.98,42.98,high,low,10,namecheap,,,11/09/2026 02:26
 0c9cc735-ae23-4a53-a4aa-3368b2efa06f,fledged.center,available,4.98,42.98,medium,low,7,namecheap,,,18/08/2026 07:25
 f8c0fc91-13fb-41f7-a4a2-92acfde1d3a9,uninsured.center,available,4.98,42.98,medium,low,9,namecheap,,,12/09/2026 13:28
+f2f08642-2ceb-4a27-8bb3-585a993b25c4,threw.center,available,5.99,32.49,medium,low,5,namesilo,,,27/09/2026 02:18
 80abc702-e42d-4f36-9c5d-997198ad6af8,metallic.center,available,4.98,42.98,high,low,8,namecheap,,,24/08/2026 21:34
 6d9e0235-cab5-4601-893b-e5824f52fd23,hostile.center,available,5.99,32.49,high,low,7,namesilo,,,25/09/2026 00:05
 81170f02-153f-4c04-b7e3-2daea967294f,gerry.center,available,5.99,32.49,medium,low,5,namesilo,,,25/09/2026 15:41
@@ -57,16 +57,16 @@ d93aa852-6748-44dd-9e19-7921d06e3ee1,toothcare.center,available,7.99,,medium,low
 2ecabfd0-e0f5-41a2-8a6f-db76d725ecb5,variously.center,available,4.98,42.98,medium,low,9,namecheap,,,14/09/2026 13:23
 8fff0f3e-1346-43af-aa5f-52fa473ddde5,mutant.center,available,4.98,42.98,high,low,6,namecheap,,,03/09/2026 11:39
 795bab2c-28cc-4309-a1cf-f8f639497d0a,seriously.center,available,7.99,,high,low,9,name.com,,,
-6ad5e32e-2618-4364-bbba-3af6bbe0b4cb,vascular.center,resell,,,medium,low,8,Dynadot Inc,04/06/2018 08:20,04/06/2027 08:20,13/09/2026 01:33
+6ad5e32e-2618-4364-bbba-3af6bbe0b4cb,vascular.center,resell,,,medium,low,8,Dynadot Inc,04/06/2018 08:20,04/06/2027 08:20,26/09/2026 09:56
 4617b5d3-f748-4b45-900f-4cf5dedd1cd4,unifying.center,available,4.98,42.98,high,low,8,namecheap,,,12/08/2026 22:44
 8e727ab9-4ed5-4898-acb6-ee587a1a3921,abbe.center,available,4.98,42.98,medium,low,4,namecheap,,,16/09/2026 14:22
 96de1ede-59ce-40b0-a4c3-e36313b80b43,alienating.center,available,4.98,42.98,medium,low,10,namecheap,,,
 ad4f4b44-346b-46e4-b34f-1e9522ad9b6c,sincerely.center,available,7.99,,high,low,9,name.com,,,
 9032c10b-aabd-476a-8f6a-8c8a7ec65622,whimsey.center,available,4.98,42.98,medium,low,7,namecheap,,,20/09/2026 00:43
-1bff8218-9464-4cf1-85b4-2ddd5498fb95,investment.center,resell,,,high,low,10,"Chengdu West Dimension Digital Technology Co., Ltd.",31/05/2016 15:17,31/05/2027 15:17,25/09/2026 00:19
+1bff8218-9464-4cf1-85b4-2ddd5498fb95,investment.center,resell,,,high,low,10,"Chengdu West Dimension Digital Technology Co., Ltd.",31/05/2016 15:17,31/05/2027 15:17,27/09/2026 01:52
 3a642338-778f-423e-b39d-0fb1a9de4703,loony.center,available,4.98,42.98,high,low,5,namecheap,,,06/08/2026 21:17
 44a48a26-564f-46e7-8868-34d8ea8f364a,wajda.center,available,5.99,32.49,medium,low,5,namesilo,,,19/09/2026 05:01
-f6ed1bf3-3dbb-4e5e-a79f-e934fa5c7c47,hospital.center,resell,,,high,low,8,Squarespace Domains II LLC,27/05/2020 04:36,27/05/2031 04:36,25/09/2026 04:20
+f6ed1bf3-3dbb-4e5e-a79f-e934fa5c7c47,hospital.center,resell,,,high,low,8,Squarespace Domains II LLC,27/05/2020 04:36,27/05/2031 04:36,26/09/2026 06:43
 0b3d530f-ae92-4a9a-8534-166be01b8d70,races.center,available,5.99,32.49,high,low,5,namesilo,,,19/09/2026 00:33
 7b41e23b-cf9d-4bf3-962c-08a1dcc6125c,procedural.center,available,4.98,42.98,high,low,10,namecheap,,,09/09/2026 02:31
 74c41043-5cb4-49db-83f3-c888b839d61f,using.center,available,7.99,,high,low,5,name.com,,,
@@ -155,7 +155,6 @@ db2b9a7a-f9dd-4885-ad17-aac913daa9f9,annaba.center,available,4.98,42.98,medium,l
 432dd588-c437-495c-9be7-714b8499b807,scenic.center,available,4.98,42.98,high,low,6,namecheap,,,09/09/2026 22:58
 11b281b6-ed0e-416c-8d9a-a7d6d9c68b03,committing.center,available,7.99,,high,low,10,name.com,,,
 cbb88561-f980-47de-9d35-9191e8fd1fd9,masoud.center,available,4.98,42.98,medium,low,6,namecheap,,,17/09/2026 20:25
-6b294125-41d4-40fb-abd2-5c39c30bebcf,leader.center,resell,,,high,low,6,"Sav.com, LLC - 5",03/03/2025 15:15,03/03/2027 15:15,
 cd885d8a-c8fc-4ee6-8d03-40a7d0b54888,laxative.center,available,4.98,42.98,high,low,8,namecheap,,,22/08/2026 21:25
 d0d7b31c-0493-413c-9126-efa3ac2a60cd,irksome.center,available,4.98,42.98,medium,low,7,namecheap,,,10/08/2026 20:01
 461e5728-e9f0-42b9-b089-830923d553ea,wager.center,available,5.99,32.49,high,low,5,namesilo,,,23/09/2026 10:51
@@ -194,9 +193,9 @@ c7ec0fd8-4d8c-46d9-918e-73c45b6d13dc,hang.center,available,7.99,,high,low,4,name
 d057816b-3a7e-44f8-82e0-f709116336a7,tangible.center,available,4.98,42.98,high,low,8,namecheap,,,05/09/2026 00:10
 9a5a04cf-fa34-42d3-979e-9b151cb25b2c,holmes.center,available,5.99,32.49,high,low,6,namesilo,,,20/09/2026 10:51
 a55d5a89-c3b7-4ccb-8d13-dcd2a1366c9e,gia.center,premium,23.6,23.6,high,low,3,namesilo,,,20/09/2026 06:34
-6ff3995c-807a-4b47-a76f-5c99b310342c,currency.center,resell,,,high,low,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),31/08/2017 08:13,31/08/2027 08:13,23/09/2026 14:39
+6ff3995c-807a-4b47-a76f-5c99b310342c,currency.center,resell,,,high,low,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),31/08/2017 08:13,31/08/2027 08:13,26/09/2026 05:22
 4143e16a-7b6e-4c75-9f90-b6faecd23fd7,allotted.center,available,4.98,42.98,high,low,8,namecheap,,,
-e7117906-e763-4217-89ce-af4287525a59,news.center,resell,,,high,medium,4,"Spaceship, Inc.",28/06/2015 16:00,28/06/2027 16:00,23/09/2026 11:01
+e7117906-e763-4217-89ce-af4287525a59,news.center,resell,,,high,medium,4,"Spaceship, Inc.",28/06/2015 16:00,28/06/2027 16:00,26/09/2026 07:46
 d0aff92e-086d-4759-81af-9e8fec1336c4,doubting.center,available,4.98,42.98,medium,low,8,namecheap,,,14/08/2026 17:01
 58cbfb8b-8eb9-4c30-ab97-c095099eeae2,pasang.center,available,5.99,32.49,medium,low,6,namesilo,,,23/09/2026 12:24
 50662e82-cc53-4a5e-ac48-db9faa1a9a0e,infrasonic.center,available,4.98,42.98,medium,low,10,namecheap,,,22/08/2026 04:48
@@ -206,13 +205,13 @@ b4485582-b4c2-4d26-bed6-7ce6b236c8ee,cheering.center,available,4.98,42.98,high,l
 c7bf3936-0484-466b-b7d1-bc91a21b0564,happen.center,available,4.98,42.98,high,low,6,namecheap,,,25/09/2026 06:00
 5366e329-7453-4b9a-acce-27de0c492ac2,stereotype.center,available,7.99,,high,low,10,name.com,,,
 5f24e606-0e3a-4339-913f-7a3b0cb99a8e,foxily.center,available,4.98,42.98,medium,low,6,namecheap,,,14/09/2026 09:04
-63b4274a-c56d-49c3-837d-3e05a92e5b85,neuroscience.center,resell,,,high,low,12,Dynadot Inc,09/06/2018 10:03,09/06/2027 10:03,24/09/2026 07:20
+63b4274a-c56d-49c3-837d-3e05a92e5b85,neuroscience.center,resell,,,high,low,12,Dynadot Inc,09/06/2018 10:03,09/06/2027 10:03,26/09/2026 07:45
 a4416d8a-aee8-4e27-8c21-9e943555dd48,xxxi.center,available,4.98,42.98,high,low,4,namecheap,,,
 e8601c25-fefc-49d2-a7ab-7522a8560718,losing.center,available,5.99,32.49,high,low,6,namesilo,,,25/09/2026 11:49
 cb74ff37-ac37-4edc-9691-c50f32ee64fc,birdhouse.center,available,4.98,42.98,high,low,9,namecheap,,,23/09/2026 20:39
-3c0ce4fd-0fd9-4720-82bf-4a3075ad3fd0,shine.center,resell,,,high,low,5,"DNSPod, Inc.",17/12/2022 15:15,17/12/2026 15:15,
+3c0ce4fd-0fd9-4720-82bf-4a3075ad3fd0,shine.center,resell,,,high,low,5,"DNSPod, Inc.",17/12/2022 15:15,17/12/2026 15:15,27/09/2026 04:26
 8aa85884-7789-4c0c-9148-47dd9a340ab6,verb.center,available,7.99,,high,low,4,name.com,,,
-32fc9b28-b0df-4730-b6d6-3b1e5697e8db,jam.center,resell,,,high,medium,3,,,,25/09/2026 22:35
+32fc9b28-b0df-4730-b6d6-3b1e5697e8db,jam.center,resell,,,high,medium,3,Dynadot Inc,28/05/2026 17:49,28/05/2027 17:49,26/09/2026 06:59
 8c10daf0-2dcb-4d38-a6fc-93947ca71fd4,copular.center,available,4.98,42.98,medium,low,7,namecheap,,,13/08/2026 00:38
 7b962137-619c-40e7-b905-c4fcb27c04f9,telling.center,available,4.98,42.98,high,low,7,namecheap,,,12/08/2026 15:35
 c3478b91-248f-4e63-8c9f-ce34d8e7d634,unquiet.center,available,4.98,42.98,medium,low,7,namecheap,,,12/09/2026 17:40
@@ -225,7 +224,7 @@ dc3217c2-eb0b-4a42-bfe9-91cccda0aa8b,ringer.center,available,5.99,32.49,high,low
 65028b7c-4da4-48e2-a398-79db184de796,racehorse.center,available,5.99,32.49,high,low,9,namesilo,,,22/09/2026 01:58
 b1c6c98e-c216-45d6-93ba-eaf7e1901240,evidential.center,available,4.98,42.98,high,low,10,namecheap,,,17/08/2026 15:02
 c893273c-2c39-457f-8ae3-c19bc80e3d45,eighteenth.center,available,4.98,42.98,high,low,10,namecheap,,,
-377d4bde-ea7d-4f46-9847-3c19a5bacb56,stay.center,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",10/04/2026 15:15,10/04/2027 15:15,24/09/2026 23:21
+377d4bde-ea7d-4f46-9847-3c19a5bacb56,stay.center,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",10/04/2026 15:15,10/04/2027 15:15,26/09/2026 09:17
 c85020b3-afeb-49f5-b89e-bb5296efab25,inactive.center,available,4.98,42.98,medium,low,8,namecheap,,,22/08/2026 00:11
 a834d8c8-4d82-4fd0-a633-9f016c0cbde9,reciprocal.center,available,4.98,42.98,high,low,10,namecheap,,,09/09/2026 11:29
 ad97b260-2879-4f2e-aa0b-11ee6c5a23b6,cipher.center,available,7.99,33.99,high,low,6,name.com,,,
@@ -239,7 +238,7 @@ d956c05b-1b60-4172-aae4-61f41b7607ab,ketosis.center,available,4.98,42.98,medium,
 79ddde6e-27d3-462c-967b-fc6ef969a8e2,abrader.center,available,5.99,32.49,medium,low,7,namesilo,,,16/09/2026 16:48
 6724a269-0c6b-451e-8bc9-f190433aef2a,hypnotic.center,available,4.98,42.98,high,low,8,namecheap,,,21/08/2026 17:07
 071c358a-fb3b-45aa-abcf-6b724e2fe5a3,indorse.center,available,4.98,42.98,high,low,7,namecheap,,,08/08/2026 05:17
-1a7085ae-88ea-4424-8487-3341d6814314,direct.center,resell,,,high,medium,6,"Xiamen ChinaSource Internet Service Co., Ltd",04/08/2024 17:00,04/08/2027 17:00,24/09/2026 10:39
+1a7085ae-88ea-4424-8487-3341d6814314,direct.center,resell,,,high,medium,6,"Xiamen ChinaSource Internet Service Co., Ltd",04/08/2024 17:00,04/08/2027 17:00,26/09/2026 05:34
 417a4ebe-86fc-4ea6-bc6d-15ee1b65add1,dogsledding.center,available,5.99,32.49,medium,low,11,namesilo,,,20/09/2026 01:02
 d32516f6-9341-420e-aeea-49930fac3da4,disdain.center,available,5.99,32.49,medium,low,7,namesilo,,,24/09/2026 17:41
 d8c2b2c8-72aa-4bf4-a6fb-a26eea2408e0,willing.center,available,4.98,42.98,high,low,7,namecheap,,,12/09/2026 05:42
@@ -272,7 +271,7 @@ adce09af-c651-4bfe-9a5f-d2808fa6742a,hoy.center,available,5.99,32.49,high,low,3,
 db081b78-860f-4297-993f-9eb73f1f59f6,inquirer.center,available,4.98,42.98,high,low,8,namecheap,,,20/09/2026 14:22
 233fe2a5-d4ea-43e0-a6f1-9f2fad1571cf,legalize.center,available,4.98,42.98,high,low,8,namecheap,,,22/08/2026 23:05
 223285a5-b32c-4726-9b37-91f688827462,umpteenth.center,available,4.98,42.98,medium,low,9,namecheap,,,11/09/2026 23:09
-a6a9d8d9-78e0-411c-a46f-6c7ae34c60de,pending.center,available,7.99,,high,low,7,name.com,,,
+a6a9d8d9-78e0-411c-a46f-6c7ae34c60de,pending.center,available,5.99,32.49,high,low,7,namesilo,,,27/09/2026 03:20
 554e09c0-df7c-4b12-8ebf-c1f2fb30fb25,involving.center,available,7.99,,medium,low,9,name.com,,,
 6af146c9-e6da-4d92-b47c-7352e23ebb56,spoof.center,available,5.99,32.49,high,low,5,namesilo,,,23/09/2026 11:26
 e6d27a35-feaf-4c48-a28a-fd2621ed91ac,coaches.center,available,5.99,32.49,medium,low,7,namesilo,,,20/09/2026 07:46
@@ -299,6 +298,7 @@ eae4d263-322e-48e6-81d1-642e53fc4fda,arranging.center,available,4.98,42.98,high,
 23a1ed26-94af-4e51-b9d9-30eebb31e82f,cypriote.center,available,5.99,41.99,medium,low,8,name.com,,,13/08/2026 14:05
 e843e457-0c73-4a24-88dd-aa06af9611c1,bedroom.center,available,5.99,32.49,high,low,7,namesilo,,,22/09/2026 23:08
 a1c613ed-a94a-4ec2-8544-4987d000df31,leal.center,available,4.98,42.98,high,low,4,namecheap,,,22/08/2026 22:03
+32558bb4-f337-45b3-90da-e207fd8666e9,debbie.center,available,5.99,32.49,high,low,6,namesilo,,,27/09/2026 07:32
 aeab9189-a88a-476c-9343-820e9f8b07e3,apoapsis.center,available,4.98,42.98,medium,low,8,namecheap,,,19/09/2026 18:07
 42a925c1-309a-4487-aa2f-434a91855664,ministrant.center,available,4.98,42.98,medium,low,10,namecheap,,,24/08/2026 23:57
 636fc82c-870c-41b8-af5e-fc7104ce0f77,consistent.center,available,4.98,42.98,high,low,10,namecheap,,,12/08/2026 16:01
@@ -310,7 +310,7 @@ a535cea9-91d8-4ebe-af25-d51f486186c2,teachable.center,available,4.98,42.98,high,
 d62727ca-033c-43ba-9335-06f82aa57d0b,dreamy.center,available,4.98,42.98,high,low,6,namecheap,,,14/08/2026 18:48
 326e1397-7e65-4bae-ac76-d5cbc340f74e,apteryx.center,available,5.99,32.49,medium,low,7,namesilo,,,19/09/2026 22:37
 6fe34149-96d5-405c-ac6e-ac4850fc973c,legs.center,available,7.99,,high,low,4,name.com,,,
-63f3d104-0cbd-43d5-bfc6-59a42d078cf5,slot.center,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",11/03/2023 15:15,11/03/2027 15:15,
+63f3d104-0cbd-43d5-bfc6-59a42d078cf5,slot.center,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",11/03/2023 15:15,11/03/2027 15:15,26/09/2026 09:05
 feb297c8-7b60-4c4f-b518-b9959ecb5301,doob.center,available,4.98,42.98,medium,low,4,namecheap,,,21/09/2026 18:37
 5ce9c0d3-6a1f-4d93-996f-1b86436328b6,aken.center,available,5.99,32.49,medium,low,4,namesilo,,,16/09/2026 13:08
 dffd07d5-d2b1-45cd-a713-f085455a705e,asepsis.center,available,5.99,32.49,medium,low,7,namesilo,,,19/09/2026 15:02
@@ -318,7 +318,6 @@ dffd07d5-d2b1-45cd-a713-f085455a705e,asepsis.center,available,5.99,32.49,medium,
 20d6511f-9cbc-4d0c-9636-cae70bc246cf,ripening.center,available,4.98,42.98,high,low,8,namecheap,,,
 65f55c1f-02d4-4e73-83a2-afca0db3f012,slugger.center,available,5.99,32.49,high,low,7,namesilo,,,22/09/2026 14:18
 15a8c182-4044-464f-bd0a-06aacc991a18,baruch.center,available,4.98,42.98,medium,low,6,namecheap,,,22/09/2026 09:33
-8237d179-2002-4e39-8227-70c92bdcf41b,idea.center,available,,,high,high,4,,,,
 5300a901-3800-4b5e-888d-099603d31be8,wikileaks.center,available,7.99,,medium,low,9,name.com,,,
 c0920391-c13e-47f3-9626-89dd9f79b484,lynchpin.center,available,5.99,32.49,high,low,8,namesilo,,,21/09/2026 15:18
 ad42476b-70d7-4a70-bf4d-e5f3171ebe48,squiggly.center,available,4.98,42.98,medium,low,8,namecheap,,,10/09/2026 17:43
@@ -326,8 +325,8 @@ ad42476b-70d7-4a70-bf4d-e5f3171ebe48,squiggly.center,available,4.98,42.98,medium
 0254b24b-7157-471b-bfca-e106326f7610,artillery.center,available,5.99,32.49,high,low,9,namesilo,,,20/09/2026 11:43
 c4a62367-4ca7-436a-9249-46da051a103f,perforate.center,available,4.98,42.98,high,low,9,namecheap,,,08/09/2026 16:54
 d1ac7c16-41f4-4371-ba5d-4f594e8e4b53,faces.center,available,7.99,,medium,low,5,name.com,,,
-6c9036bc-7669-44e3-adc6-f93a4ebd0f4b,boss.center,resell,,,high,high,4,"Xiamen ChinaSource Internet Service Co., Ltd",07/11/2019 23:27,07/11/2026 23:27,23/09/2026 00:45
 907bf6b6-648f-450b-a602-39aee1f00e8a,hackmatack.center,available,5.99,32.49,medium,low,10,namesilo,,,22/09/2026 00:09
+628707b0-4aad-4429-8d3c-fdc75c2d63c6,xml.center,premium,26,26,medium,low,3,namecheap,,,27/09/2026 02:25
 ef92c8f7-656d-44cb-b691-24fedcc99b87,cometary.center,available,4.98,42.98,medium,low,8,namecheap,,,12/08/2026 18:56
 7a55ece2-15da-4a5e-8a65-3d532e2d73d8,sheer.center,available,5.99,32.49,high,low,5,namesilo,,,22/09/2026 23:12
 f2d65274-1983-4cf6-bcc9-4e3f5a984d35,damages.center,available,5.99,32.49,high,low,7,namesilo,,,18/09/2026 18:40
@@ -368,7 +367,7 @@ e1ddf4cb-5575-4ad5-87b2-5ddae19f282d,speckled.center,available,4.98,42.98,medium
 6dcbb3de-bde1-4bb2-a941-c0a55b017612,recognition.center,available,7.99,,high,low,11,name.com,,,
 905f705f-ae18-4de8-96a9-2ef803e2dd46,hesperian.center,available,4.98,42.98,medium,low,9,namecheap,,,21/08/2026 07:27
 6e596f06-f4eb-4116-8a8c-be4652749edd,judges.center,available,7.99,,high,low,6,name.com,,,
-3329323b-3f99-4268-a08c-6043067e668e,paths.center,resell,7.99,,medium,low,5,name.com,,,18/09/2026 10:52
+3329323b-3f99-4268-a08c-6043067e668e,paths.center,resell,7.99,,medium,low,5,"GoDaddy.com, LLC",09/05/2026 11:51,09/05/2027 11:51,26/09/2026 08:03
 795fdb5e-1c0f-49fc-b5b2-499ad3a56c5e,slimed.center,available,4.98,42.98,low,low,6,namecheap,,,10/09/2026 10:57
 fb01f5f1-bb58-4e59-a26e-22780574c47b,geologic.center,available,4.98,42.98,high,low,8,namecheap,,,18/08/2026 22:30
 a4cc3e41-c541-437e-83e4-89a515fbda32,formalize.center,available,7.99,,high,low,9,name.com,,,
@@ -376,6 +375,7 @@ f5f8c5c4-f079-4b9c-9944-f84c588dcfce,slickly.center,available,4.98,42.98,medium,
 b9eedda9-de72-4544-b69b-0aebad7465be,rigged.center,available,4.98,42.98,high,low,6,namecheap,,,09/09/2026 17:25
 45f02929-157c-439c-bbef-8ce667dda24c,burr.center,available,5.99,32.49,medium,low,4,namesilo,,,16/09/2026 13:29
 7729496e-f87d-4bdd-8dd8-27f8ee29ff05,weeping.center,available,4.98,42.98,high,low,7,namecheap,,,12/08/2026 00:52
+cf052893-6281-4425-8268-8e5a7ef4e9bb,spots.center,available,5.99,32.49,high,low,5,namesilo,,,27/09/2026 04:00
 118c46de-6592-4a1c-9127-bd23de71cbd2,unerasable.center,available,4.98,42.98,medium,low,10,namecheap,,,22/08/2026 02:39
 afbafa25-1615-4d84-a4a5-4c60af300324,desktops.center,available,5.99,32.49,medium,low,8,namesilo,,,20/09/2026 12:27
 0d759917-1a8e-4bad-b80d-59a026e012f6,alphavirus.center,available,5.99,32.49,medium,low,10,namesilo,,,18/09/2026 13:47
@@ -384,7 +384,7 @@ ab8c3f26-d677-40f0-aa73-f97c4b8df0d5,fifteenth.center,available,4.98,42.98,high,
 6ac79985-430b-4ad2-a9c2-757b0bc95979,checking.center,available,5.99,32.49,high,low,8,namesilo,,,25/09/2026 12:11
 7a1e85f1-3901-46c5-bae5-81c5ab925d81,grungy.center,available,4.98,42.98,low,low,6,namecheap,,,09/08/2026 09:36
 12af2ebd-b442-4e7d-9913-e32751c013c3,rained.center,available,5.99,32.49,medium,low,6,namesilo,,,20/09/2026 05:42
-3e70a9da-02d7-4366-9bd3-60fe72fc7bff,hiv.center,resell,,,high,low,3,,,,25/09/2026 07:23
+3e70a9da-02d7-4366-9bd3-60fe72fc7bff,hiv.center,resell,,,high,low,3,"Sav.com, LLC",29/07/2026 14:29,29/07/2027 14:29,26/09/2026 06:41
 2985cb25-3802-4f90-adef-00fd5a867fdd,operose.center,available,4.98,42.98,medium,low,7,namecheap,,,06/08/2026 17:05
 29b28555-0a3c-416b-b13c-05c2545af673,tubeless.center,available,4.98,42.98,medium,low,8,namecheap,,,11/09/2026 20:58
 cfbf5292-479c-40aa-bbb2-140cac4bc115,cousins.center,available,4.98,42.98,high,low,7,namecheap,,,19/09/2026 21:00
@@ -405,9 +405,8 @@ c9de9e3b-9c91-41ef-a382-743dbe09a4d4,filmable.center,available,4.98,42.98,medium
 60c35b2b-0b7d-47fa-b5b5-5c1f321a13ac,depressing.center,available,4.98,42.98,medium,low,10,namecheap,,,12/08/2026 03:50
 235f8577-1d6f-48ec-983c-1d02a3f7006c,yucky.center,available,4.98,42.98,medium,low,5,namecheap,,,14/08/2026 10:51
 b6fd8f4b-80c1-445d-866e-1b564f2f5029,darkened.center,available,5.99,41.99,medium,low,8,name.com,,,13/08/2026 18:08
-3bcd1abf-34da-466d-823c-8b29af67699b,barcelona.center,resell,,,high,low,9,,,,22/09/2026 05:08
-b32a5a61-bed8-4d18-aafa-85d7c8194ac7,anytime.center,resell,,,high,low,7,"Sav.com, LLC",08/11/2025 20:29,08/11/2026 20:29,
-ee10be7c-fc8c-4d69-a36e-78df0c7427af,peaceful.center,available,7.99,,high,low,8,name.com,,,
+3bcd1abf-34da-466d-823c-8b29af67699b,barcelona.center,resell,,,high,low,9,"Soluciones Corporativas IP, SL",17/06/2015 08:58,17/06/2027 08:58,26/09/2026 04:16
+ee10be7c-fc8c-4d69-a36e-78df0c7427af,peaceful.center,available,4.98,42.98,high,low,8,namecheap,,,27/09/2026 03:13
 80c218f7-2205-4a9b-91ca-ed601d3ed102,assur.center,available,5.99,32.49,high,low,5,namesilo,,,20/09/2026 16:41
 e8922bc6-5a2e-4a68-a0e4-984b5acdf98b,overeasy.center,available,5.99,32.49,medium,low,9,namesilo,,,16/09/2026 17:44
 3eeaf542-6fdd-449a-8990-6a84c7ddc4bc,unasked.center,available,4.98,42.98,medium,low,7,namecheap,,,12/09/2026 01:10
@@ -437,11 +436,12 @@ ca315a22-54a6-453c-9ce0-6246d75e10b0,gripe.center,premium,23.6,23.6,high,low,5,n
 fb146bd4-7982-4d0f-818d-ba32157b8f93,dismiss.center,available,7.99,,high,low,7,name.com,,,
 204929fa-91a4-446f-afea-3dfa9b9f14fa,rotund.center,available,4.98,42.98,medium,low,6,namecheap,,,13/08/2026 01:59
 5d06430a-9d4b-4882-aa0f-6f76dd1bddc8,aquaphobia.center,available,5.99,32.49,medium,low,10,namesilo,,,19/09/2026 22:59
-078dbc74-ab99-430c-9432-bb8483736f63,hollywood.center,resell,,,high,low,9,"GoDaddy.com, LLC",19/03/2014 16:00,19/03/2027 16:00,21/08/2026 10:34
+078dbc74-ab99-430c-9432-bb8483736f63,hollywood.center,resell,,,high,low,9,"GoDaddy.com, LLC",19/03/2014 16:00,19/03/2027 16:00,26/09/2026 06:41
 0ed3eac5-3c6e-4e73-9f25-35ec9aa72d95,acoustics.center,available,4.98,42.98,high,low,9,namecheap,,,17/09/2026 02:36
 353e8dc6-218f-4a0b-a5f2-2253c68b2cb9,foolproof.center,available,4.98,42.98,high,low,9,namecheap,,,18/08/2026 10:37
 4be444c2-a750-44a2-9ee7-df2f78db4ce7,made.center,available,5.99,32.49,high,medium,4,namesilo,,,25/09/2026 16:01
 9268d8fa-891d-4334-a15b-8aa30b38124d,shuddering.center,available,4.98,42.98,medium,low,10,namecheap,,,10/09/2026 07:02
+2b873d4b-2d10-488e-a9a4-961946d967c9,copeland.center,available,5.99,32.49,high,low,8,namesilo,,,27/09/2026 07:52
 719ade99-4685-42ce-8fdb-4c6b77c5b162,mainly.center,available,7.99,,high,low,6,name.com,,,
 6f00c8f3-f536-4db9-8529-2e4fa79053f9,skillful.center,available,5.99,32.49,high,low,8,namesilo,,,21/09/2026 17:27
 4283a78f-e70b-43ee-9aea-a6b41e437fe4,depend.center,available,7.99,,high,low,6,name.com,,,
@@ -483,6 +483,7 @@ a6ec2b61-33c7-4b7a-9905-1e8963a3d0d7,apophatic.center,available,4.98,42.98,mediu
 dbaa75b3-4290-4008-a5b2-f593c6e07a62,bollock.center,available,5.99,32.49,medium,low,7,namesilo,,,21/09/2026 23:08
 4785aaf0-15e1-4e8c-9913-d18f9747b5d7,eased.center,available,4.98,42.98,high,low,5,namecheap,,,
 7c0e7c63-cf23-403c-8bf9-0c69942ca443,araroba.center,available,4.98,42.98,medium,low,7,namecheap,,,20/09/2026 00:14
+a44597cc-b740-43a9-ba92-0b49acca25e8,mclaughlin.center,available,5.99,32.49,medium,low,10,namesilo,,,27/09/2026 01:56
 2be87593-10c6-483f-a2bd-732fb026c1cc,broody.center,available,4.98,42.98,medium,low,6,namecheap,,,11/08/2026 05:54
 8bf7a1a6-9fad-4858-a9ae-9d0761618ba3,runic.center,available,4.98,42.98,medium,low,5,namecheap,,,09/09/2026 19:35
 cf7a0386-441a-411d-9794-2eda8e6d73a1,amon.center,available,4.98,42.98,high,low,4,namecheap,,,18/09/2026 18:27
@@ -506,6 +507,7 @@ e6093e42-f297-4159-afaf-d244ff762d6d,pellucid.center,available,4.98,42.98,high,l
 e0a5259e-a74b-4864-8bbc-4bc011f4a1f4,unredeemed.center,available,4.98,42.98,medium,low,10,namecheap,,,12/09/2026 17:55
 8b381b79-2d6c-4ba9-b092-b3f50224f427,forties.center,available,5.99,32.49,medium,low,7,namesilo,,,16/09/2026 12:06
 ba80f49b-49a1-4acc-b9a5-a115860faf11,borgia.center,available,5.99,32.49,medium,low,6,namesilo,,,18/09/2026 05:55
+ab84939c-92d4-4298-bbb4-6a9c442dca60,infection.center,available,5.99,32.49,high,low,9,namesilo,,,27/09/2026 04:34
 7f8100a4-6ba1-4308-a59f-206496caae3f,waxed.center,available,4.98,42.98,high,low,5,namecheap,,,13/09/2026 08:40
 b082f1f0-b43f-45db-add9-2433133fcfbb,miniature.center,available,4.98,42.98,high,low,9,namecheap,,,24/08/2026 23:48
 ef5309ea-5e33-43ca-8557-85d937039e9f,plier.center,available,7.99,,medium,low,5,name.com,,,
@@ -517,7 +519,7 @@ a44d9ced-ef50-4bec-9cd8-f563c50f0a9c,nineteen.center,available,5.99,32.49,high,l
 214577c9-5220-43c6-89f9-d240c311b2cd,affable.center,available,4.98,42.98,high,low,7,namecheap,,,21/09/2026 21:27
 9ed751f0-1fcb-41d7-9236-43a082064129,sucker.center,available,4.98,42.98,high,low,6,namecheap,,,18/09/2026 08:56
 6d6aeed1-daff-4c0f-b05a-8511b38510dc,adverse.center,available,4.98,42.98,medium,low,7,namecheap,,,
-270f2206-3bbb-4ff1-893e-cd0034d70e64,europe.center,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",20/01/2024 15:15,20/01/2027 15:15,
+270f2206-3bbb-4ff1-893e-cd0034d70e64,europe.center,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",20/01/2024 15:15,20/01/2027 15:15,26/09/2026 05:54
 41115017-52b9-4d0f-a67b-f5c36b79ee78,achy.center,available,4.98,42.98,medium,low,4,namecheap,,,
 e4fdf24a-fb51-45c9-9089-0eae1c438c6a,highbrow.center,available,4.98,42.98,medium,low,8,namecheap,,,21/08/2026 09:09
 d972d91e-b9eb-41a0-b88d-7b5c7a932e03,expedite.center,available,7.99,,high,low,8,name.com,,,
@@ -528,7 +530,7 @@ e0e4c807-c4a5-4768-93cc-466f632e192c,lions.center,available,7.99,,high,low,5,nam
 7e4294fe-e002-4910-a262-8013c32b7e78,subocean.center,available,4.98,42.98,low,low,8,namecheap,,,11/09/2026 00:32
 0b167e3d-6c5f-4386-b710-656362594380,blackguard.center,available,5.99,32.49,medium,low,10,namesilo,,,24/09/2026 02:20
 fad30c05-a6b3-4cfc-8617-ef46ccfc75ac,carrier.center,available,,,high,low,7,,,,
-09273604-06d6-41f8-a23c-9742fe2a9495,sell.center,resell,,,high,medium,4,"DNSPod, Inc.",16/09/2018 09:41,16/09/2026 09:41,
+09273604-06d6-41f8-a23c-9742fe2a9495,sell.center,resell,,,high,medium,4,"DNSPod, Inc.",16/09/2018 09:41,16/09/2027 09:41,26/09/2026 08:54
 4e788fce-dda0-4b4d-b476-96fec72d8bf1,bluish.center,available,4.98,42.98,high,low,6,namecheap,,,22/09/2026 22:47
 c063027e-cdf5-4ba4-95c4-82026a2bf56e,footwear.center,available,5.99,32.49,high,low,8,namesilo,,,24/09/2026 02:34
 20c5a2a5-5a94-4569-b96e-66a6736b40e1,misconduct.center,available,5.99,32.49,medium,low,10,namesilo,,,17/09/2026 05:28
@@ -536,7 +538,7 @@ c063027e-cdf5-4ba4-95c4-82026a2bf56e,footwear.center,available,5.99,32.49,high,l
 23148b13-cc9a-48b3-8266-d459d7f5ee12,amorous.center,available,5.99,32.49,high,low,7,namesilo,,,22/09/2026 03:25
 9c1ca577-60fa-4b04-8e91-008c9fd2cc41,calf.center,available,7.99,,high,low,4,name.com,,,
 310b7a85-0e3d-4536-a70f-30ff358b8ae3,idyllic.center,available,4.98,42.98,high,low,7,namecheap,,,21/08/2026 18:14
-64ccf81c-2186-4722-b9ad-4be88717d01c,bonus.center,resell,,,high,low,5,"Global Domains International, Inc. DBA DomainCostClub.com",27/01/2026 15:16,27/01/2027 15:16,24/09/2026 07:15
+64ccf81c-2186-4722-b9ad-4be88717d01c,bonus.center,resell,,,high,low,5,"Global Domains International, Inc. DBA DomainCostClub.com",27/01/2026 15:16,27/01/2027 15:16,26/09/2026 04:32
 599f720f-ad04-4e42-a7ea-dbed96f479fb,spay.center,available,4.98,42.98,medium,low,4,namecheap,,,03/09/2026 16:33
 80d6fb96-9af6-406e-8c82-c9f94182b77c,forces.center,available,5.99,32.49,high,low,6,namesilo,,,16/09/2026 15:45
 9d429300-cd89-41d6-a469-8653aea68cb0,hbo.center,available,,,high,medium,3,,,,
@@ -603,27 +605,27 @@ db65eb82-c0db-4be6-a4bf-0e064b278d1c,unoriginal.center,available,4.98,42.98,medi
 f72cffc7-906e-4131-a051-df1c8b44bea2,vagabond.center,available,4.98,42.98,high,low,8,namecheap,,,14/08/2026 19:16
 c708e8bb-bf83-49d8-a690-484d03581cf7,canoe.center,available,7.99,,high,low,5,name.com,,,
 488dc2bf-9372-4f28-b1e7-f9d3e2bfa492,junky.center,available,5.99,32.49,medium,low,5,namesilo,,,17/09/2026 06:52
-ccecdb5a-21a6-40e6-bd08-7c5362addae4,desert.center,resell,,,high,low,6,"DNSPod, Inc.",08/03/2024 15:15,08/03/2027 15:15,24/09/2026 06:40
+ccecdb5a-21a6-40e6-bd08-7c5362addae4,desert.center,resell,,,high,low,6,"DNSPod, Inc.",08/03/2024 15:15,08/03/2027 15:15,26/09/2026 05:30
 c3262cfc-e218-46b0-a76f-561db4be79d4,mcmuffin.center,available,7.99,,high,low,8,name.com,,,
 42cbfc2b-0e03-427c-80d2-82f6245b62f1,panicky.center,available,4.98,42.98,medium,low,7,namecheap,,,05/09/2026 00:54
 cb82c7e8-32be-4351-b161-6cacabf91fe2,ecru.center,available,4.98,42.98,medium,low,4,namecheap,,,09/08/2026 12:26
 2231d39e-81fa-4ecf-9dee-880bf285bf19,forested.center,available,4.98,42.98,high,low,8,namecheap,,,18/08/2026 11:43
 d5d17e8d-909a-4ff3-aefa-9dca3f0506d5,motherlike.center,available,4.98,42.98,medium,low,10,namecheap,,,25/08/2026 07:04
 601a7f91-9c4a-4ada-b233-fb660e09e22c,amenities.center,available,4.98,42.98,high,low,9,namecheap,,,18/09/2026 18:52
-63e5d169-0f4c-4002-91d0-a890bd3d1e68,plus.center,resell,,,high,low,4,UM DOMAINS PTE. LTD,03/04/2026 15:15,03/04/2027 15:15,
+63e5d169-0f4c-4002-91d0-a890bd3d1e68,plus.center,resell,,,high,medium,4,"Spaceship, Inc.",03/04/2026 15:15,03/04/2028 15:15,27/09/2026 04:17
 cf949966-b475-43c2-b198-6f791af96448,byword.center,available,5.99,32.49,medium,low,6,namesilo,,,17/09/2026 06:09
 63b1bf3c-844c-4380-92b8-1d205589aad3,structures.center,available,7.99,,medium,low,10,name.com,,,
 8b5a8b60-afdd-4c74-8bdd-0b35afdd97e8,screamer.center,available,5.99,32.49,medium,low,8,namesilo,,,22/09/2026 17:00
 f50cd4c6-a83a-40c6-86b7-ab2e0d3260a1,darned.center,available,4.98,42.98,medium,low,6,namecheap,,,10/08/2026 12:41
 504ec6e0-13d3-4e8a-a2da-8c86a0780f00,misleading.center,available,4.98,42.98,medium,low,10,namecheap,,,25/08/2026 01:34
-1dddf62b-9eda-4300-8027-a325eb795132,redemption.center,resell,,,high,low,10,Dynadot Inc,05/01/2018 11:28,05/01/2027 11:28,25/09/2026 13:24
+1dddf62b-9eda-4300-8027-a325eb795132,redemption.center,resell,,,high,low,10,Dynadot Inc,05/01/2018 11:28,05/01/2027 11:28,26/09/2026 08:32
 1779e38f-3534-4426-bcb1-fe05263260cb,agony.center,available,4.98,42.98,high,low,5,namecheap,,,11/09/2026 01:10
 0e131cb1-6288-4471-b29a-2751f6492b38,babylonia.center,available,5.99,32.49,high,low,9,namesilo,,,21/09/2026 13:51
 e7c210b0-026b-4e8f-abdb-5466ac948359,blackshirt.center,available,5.99,32.49,medium,low,10,namesilo,,,24/09/2026 03:05
 7e1b05e7-eaff-45a6-9d23-abf9a2b2eee5,mixing.center,available,7.99,,high,low,6,name.com,,,
 405f97f4-485c-4f19-820b-543342172f7b,disloyalty.center,available,5.99,32.49,medium,low,10,namesilo,,,24/09/2026 22:47
-7629cf59-5b35-4fdc-a647-a04c7000ac46,robots.center,resell,,,high,medium,6,"Chengdu West Dimension Digital Technology Co., Ltd.",27/05/2020 00:07,27/05/2027 00:07,25/09/2026 22:44
-93fe7591-6152-4bcf-b230-926d929112b8,businesses.center,resell,,,medium,low,10,"Sav.com, LLC - 38",30/04/2023 15:15,30/04/2027 15:15,23/09/2026 07:34
+7629cf59-5b35-4fdc-a647-a04c7000ac46,robots.center,resell,,,high,medium,6,"Chengdu West Dimension Digital Technology Co., Ltd.",27/05/2020 00:07,27/05/2027 00:07,26/09/2026 08:42
+93fe7591-6152-4bcf-b230-926d929112b8,businesses.center,resell,,,medium,low,10,"Sav.com, LLC - 38",30/04/2023 15:15,30/04/2027 15:15,26/09/2026 04:41
 2551a82b-21da-4e06-ba51-48a47f6fbf06,wasting.center,available,5.99,32.49,medium,low,7,namesilo,,,21/09/2026 00:58
 c8c93b65-766d-49fa-b4a0-5c6542432bb2,azotic.center,available,4.98,42.98,medium,low,6,namecheap,,,08/08/2026 02:53
 b04af2a1-85b0-406b-b373-6251d066bd55,cheesecakes.center,available,4.98,42.98,medium,low,11,namecheap,,,08/09/2026 07:37
@@ -674,9 +676,9 @@ a3e931a8-605e-4823-8699-0a782d6530d3,jackfruit.center,available,4.98,42.98,high,
 7a46189e-8b78-4c09-8362-e5532b1bb4c9,barman.center,available,5.99,32.49,high,low,6,namesilo,,,22/09/2026 06:19
 f5746dee-db13-4e19-a78a-2707155f4a1e,proportions.center,available,5.99,32.49,high,low,11,namesilo,,,17/09/2026 11:38
 99c96112-a3ee-4e69-a049-0b687e57d651,molten.center,available,4.98,42.98,high,low,6,namecheap,,,25/08/2026 03:57
-b09057f9-1428-410b-9dcd-b8181ba4dc36,wing.center,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",30/04/2023 15:15,30/04/2027 15:15,22/09/2026 15:49
+b09057f9-1428-410b-9dcd-b8181ba4dc36,wing.center,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",30/04/2023 15:15,30/04/2027 15:15,26/09/2026 10:11
 1dbf952d-6471-43f5-bb7f-ec0f1fbaf630,aspic.center,available,5.99,32.49,medium,low,5,namesilo,,,20/09/2026 15:11
-171de502-874f-45ee-9032-64b56df0ec56,sham.center,resell,,,medium,low,4,"Sav.com, LLC",14/11/2025 00:26,14/11/2026 00:26,07/08/2026 08:06
+171de502-874f-45ee-9032-64b56df0ec56,sham.center,resell,,,medium,low,4,"Sav.com, LLC",14/11/2025 00:26,14/11/2026 00:26,26/09/2026 08:57
 3882c3fc-b51d-42b3-ab63-d313992beed1,bialy.center,available,5.99,32.49,medium,low,5,namesilo,,,23/09/2026 12:41
 7108984a-56fd-4083-b64b-6dbfaacd6fd4,inferior.center,available,4.98,42.98,high,low,8,namecheap,,,22/08/2026 04:19
 7b4e5744-3ff7-442f-bdfb-6db4adc4c406,province.center,available,7.99,,high,low,8,name.com,,,
@@ -684,7 +686,7 @@ b09057f9-1428-410b-9dcd-b8181ba4dc36,wing.center,resell,,,high,low,4,"Xiamen Chi
 d236a113-a31d-4447-b4a8-e1e7154ac707,bridgeable.center,available,4.98,42.98,medium,low,10,namecheap,,,11/08/2026 04:00
 7680ac75-0497-481f-a569-120abb9bd59a,actinism.center,available,5.99,32.49,medium,low,8,namesilo,,,17/09/2026 04:50
 de0452cb-8d87-4876-86ea-0c4b1c0ccaa8,poisonous.center,available,4.98,42.98,medium,low,9,namecheap,,,08/09/2026 22:40
-9cd37768-eda2-4e2e-8395-5b854ef79e02,bliss.center,resell,,,high,medium,5,,,,24/09/2026 06:14
+9cd37768-eda2-4e2e-8395-5b854ef79e02,bliss.center,resell,,,high,medium,5,DomainCreek LLC,17/06/2026 15:15,17/06/2027 15:15,26/09/2026 04:29
 22592e46-d812-43b2-b2da-ba44b4557a1d,tragicomic.center,available,4.98,42.98,medium,low,10,namecheap,,,11/09/2026 18:46
 46f81b51-de98-42a3-808e-e230592b8cc7,greatly.center,available,7.99,,high,low,7,name.com,,,
 4a29cd72-d0a2-4955-8782-6c0d85e05233,couth.center,available,4.98,42.98,medium,low,5,namecheap,,,13/08/2026 03:54
@@ -708,7 +710,7 @@ b2719798-207a-4bfb-8dba-9298158a73c9,regionally.center,available,4.98,42.98,high
 26207b0a-051b-4f5a-8077-4202c65e0e79,adad.center,available,5.99,32.49,medium,low,4,namesilo,,,17/09/2026 06:02
 139772f6-3aa6-45e8-802b-ac8cf3b7404f,curvy.center,available,4.98,42.98,high,low,5,namecheap,,,10/08/2026 20:32
 7c7680bc-f949-42ae-b6b8-d1c5c57bb38e,ventral.center,available,4.98,42.98,high,low,7,namecheap,,,
-c4b81c02-b57f-4f96-a153-ce11d799507a,heaven.center,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",18/11/2018 23:29,18/11/2026 23:29,
+c4b81c02-b57f-4f96-a153-ce11d799507a,heaven.center,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",18/11/2018 23:29,18/11/2026 23:29,26/09/2026 06:37
 d12a3913-94fa-4f40-8437-ff81a31f728f,lividity.center,available,4.98,42.98,medium,low,8,namecheap,,,17/09/2026 00:59
 126dabb4-4779-4527-b17a-f801f8605feb,abiding.center,available,4.98,42.98,high,low,7,namecheap,,,21/09/2026 13:52
 f1f93b80-8287-4fbd-8eb8-2a4a931fc984,vat.center,premium,23.6,23.6,high,low,3,namesilo,,,17/09/2026 05:53
@@ -722,11 +724,11 @@ c760d42d-ea65-4c5b-ad7d-1128f8ee508d,sombre.center,available,4.98,42.98,medium,l
 13748f03-d09b-4435-8b8a-f71f14f51bc4,bangor.center,available,4.98,42.98,high,low,6,namecheap,,,22/09/2026 01:58
 ecad6ca4-4180-48a1-9731-595a10640d48,mooch.center,available,4.98,42.98,medium,low,5,namecheap,,,11/08/2026 09:27
 a4be1fd2-1691-473e-8a15-864658a31d1a,woodbine.center,available,4.98,42.98,medium,low,8,namecheap,,,18/09/2026 20:11
-770a9bcc-86dc-446c-877b-f6607f727a08,strong.center,resell,,,high,low,6,"Sav.com, LLC - 48",11/07/2024 17:00,11/07/2027 17:00,25/09/2026 07:58
+770a9bcc-86dc-446c-877b-f6607f727a08,strong.center,resell,,,high,low,6,"Sav.com, LLC - 48",11/07/2024 17:00,11/07/2027 17:00,26/09/2026 09:21
 74dca000-072f-4da7-95b5-78891d3c4f14,shadows.center,available,4.98,42.98,medium,low,7,namecheap,,,18/09/2026 03:26
-26234a31-0bce-4d76-9e1e-eafe48026b31,pressed.center,available,7.99,,high,low,7,name.com,,,
+26234a31-0bce-4d76-9e1e-eafe48026b31,pressed.center,available,4.98,42.98,high,low,7,namecheap,,,27/09/2026 05:21
 cae847cc-6a30-4a93-8468-0cf0838f82a8,cockamamy.center,available,4.98,42.98,low,low,9,namecheap,,,12/08/2026 14:49
-ce01f0df-a5c7-44e1-a51e-e25eb47f47c3,proud.center,available,7.99,,high,low,5,name.com,,,
+ce01f0df-a5c7-44e1-a51e-e25eb47f47c3,proud.center,available,5.99,32.49,high,low,5,namesilo,,,27/09/2026 07:46
 d7cc1758-e730-42eb-8383-981c7aa035ba,bagman.center,available,4.98,42.98,medium,low,6,namecheap,,,21/09/2026 18:10
 fb3f017f-8d45-44fe-a904-0d7546ec00f5,restrain.center,available,7.99,,medium,low,8,name.com,,,
 4e3cb3c4-3c05-4ea9-bb8f-819a01aa945d,yourselves.center,available,7.99,,medium,low,10,name.com,,,
@@ -753,7 +755,7 @@ f051c7e0-2c27-4ccd-9c0d-ca767b31f3dd,embryonic.center,available,4.98,42.98,mediu
 c7eb4a69-4570-4a40-a9d5-6b59e9f5ed7b,profiled.center,available,5.99,32.49,medium,low,8,namesilo,,,21/09/2026 10:04
 0f5bbf39-4ffd-4705-8317-13a0c973eb68,chairman.center,available,7.99,,high,low,8,name.com,,,
 30074ede-2f1b-49cc-8004-e466b384cb71,patiently.center,available,4.98,42.98,high,low,9,namecheap,,,15/09/2026 19:20
-b1cbbe95-477d-4601-ba15-d9553ee3e587,generation.center,resell,,,high,low,10,,,,24/09/2026 16:15
+b1cbbe95-477d-4601-ba15-d9553ee3e587,generation.center,resell,,,high,low,10,IONOS SE,19/03/2014 16:00,19/03/2027 16:00,26/09/2026 06:21
 6b4dd352-0b60-496f-9def-1b339b05ebbc,colleagues.center,available,5.99,32.49,high,low,10,namesilo,,,18/09/2026 23:15
 ef3ebfb9-755b-4789-b67d-d9bc97115927,castrate.center,available,4.98,42.98,medium,low,8,namecheap,,,16/08/2026 07:07
 5a29c209-e1b0-4431-8225-7e9f8b0c91c0,priestly.center,available,4.98,42.98,medium,low,8,namecheap,,,21/08/2026 08:22
@@ -772,6 +774,7 @@ d3dd7585-b16a-4308-8eac-5a8139722dcc,compactly.center,available,4.98,42.98,mediu
 fd13f41b-8bfb-41f5-bf39-cdef80dbea99,unjust.center,available,4.98,42.98,medium,low,6,namecheap,,,22/08/2026 03:49
 03ed32d8-81f4-4792-b71f-673cface1d55,sensate.center,available,4.98,42.98,high,low,7,namecheap,,,10/09/2026 03:44
 08fdcdda-61bd-4a7f-abcd-e98b5ccd9b7b,abstinent.center,available,4.98,42.98,high,low,9,namecheap,,,
+93acea37-8d21-41dc-b0f0-da4e796fab40,passes.center,available,4.98,42.98,medium,low,6,namecheap,,,27/09/2026 02:49
 ebe4b47d-232a-4f7e-b320-1d3cf4b239ef,glorified.center,available,4.98,42.98,high,low,9,namecheap,,,11/08/2026 17:29
 f352f9b2-f1b9-49c8-879d-4a03e8ac0bab,mantic.center,available,4.98,42.98,medium,low,6,namecheap,,,14/08/2026 13:48
 bd6cc904-2022-4aea-ae12-0ca51c08944b,foliate.center,available,4.98,42.98,high,low,7,namecheap,,,18/08/2026 10:15
@@ -785,7 +788,7 @@ d7dbf03a-cd9c-499c-82b4-dbcfdf6c4e7d,alchemic.center,available,4.98,42.98,medium
 faa3ca01-a97a-4bd1-8fc9-f70c6f8a955a,populated.center,available,4.98,42.98,high,low,9,namecheap,,,08/09/2026 23:55
 4afb7bfb-6d02-4f09-9975-d72d8b0db6c7,rove.center,available,4.98,42.98,high,low,4,namecheap,,,10/09/2026 22:12
 6316b012-a6a9-4351-86d1-33fd22ee3a57,promoter.center,available,7.99,,high,low,8,name.com,,,
-3201c74c-43b5-4264-b42b-14361a2576eb,used.center,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",25/03/2025 15:15,25/03/2027 15:15,25/09/2026 07:44
+3201c74c-43b5-4264-b42b-14361a2576eb,used.center,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",25/03/2025 15:15,25/03/2027 15:15,26/09/2026 09:54
 97c24501-843b-475a-8553-fb875ea3a29d,barbuda.center,available,5.99,32.49,medium,low,7,namesilo,,,22/09/2026 05:04
 72fae3ef-e185-428d-bc83-79986474d16e,spillover.center,available,5.99,32.49,medium,low,10,namesilo,,,16/09/2026 17:36
 273fad18-8d09-4c2e-81df-186a57bfa6ea,lacrimal.center,available,4.98,42.98,medium,low,8,namecheap,,,22/08/2026 17:57
@@ -794,7 +797,7 @@ b8e49308-f209-44bf-adc2-66c4a5374fe3,adaptable.center,available,4.98,42.98,high,
 b6def5a1-1966-47ea-84f0-f4b22382566f,gaily.center,available,4.98,42.98,medium,low,5,namecheap,,,14/09/2026 20:57
 e36793bf-dda5-4639-8200-865bf587d4bc,cheekbone.center,available,4.98,42.98,high,low,9,namecheap,,,13/09/2026 15:41
 f8f8fb6f-4f7e-4be1-aac3-cb722aaa97dd,affections.center,available,5.99,32.49,medium,low,10,namesilo,,,17/09/2026 07:05
-3e4294fa-4ae7-49a0-a7fc-129eef148fda,oral.center,resell,,,high,low,4,"DNSPod, Inc.",21/11/2023 15:15,21/11/2026 15:15,04/09/2026 17:14
+3e4294fa-4ae7-49a0-a7fc-129eef148fda,oral.center,resell,,,high,low,4,"DNSPod, Inc.",21/11/2023 15:15,21/11/2026 15:15,26/09/2026 07:55
 b29e96cd-a3da-454c-83e4-58bf0f729da5,boring.center,available,5.99,41.99,high,low,6,name.com,,,23/09/2026 00:20
 855508a0-96e2-4056-b0fc-e368b6c7615d,acidosis.center,available,5.99,32.49,medium,low,8,namesilo,,,17/09/2026 01:28
 999168a3-c236-4afc-9a68-130d7f08416e,feelingly.center,available,4.98,42.98,medium,low,9,namecheap,,,14/09/2026 18:18
@@ -812,7 +815,7 @@ fa9e1fcc-5ec2-4a8d-92f6-428e80f292a0,ears.center,available,5.99,32.49,medium,low
 fd4fba7b-0c26-4b4b-9a73-2688b08c6276,fosamax.center,available,5.99,32.49,medium,low,7,namesilo,,,18/09/2026 05:11
 6d5608b0-bb3e-404d-b063-6a66109fcc3f,forfeit.center,available,4.98,42.98,high,low,7,namecheap,,,12/08/2026 21:00
 043388d2-725d-43d4-9750-114ad3ce9337,backchat.center,available,5.99,32.49,medium,low,8,namesilo,,,21/09/2026 15:20
-3f122812-5fb3-478b-8ec0-4373938571de,sam.center,resell,,,high,medium,3,"DNSPod, Inc.",26/10/2024 17:00,26/10/2026 17:00,
+f47a25bb-25d1-497f-8075-163f8a9483ce,mcnamara.center,available,5.99,32.49,high,low,8,namesilo,,,27/09/2026 08:09
 da843934-302e-4978-b6a2-55d594d100ce,gaslighter.center,available,7.99,,medium,low,11,name.com,,,
 7c29ed48-9cc3-4dd0-8b77-56451a787870,unthankful.center,available,4.98,42.98,medium,low,10,namecheap,,,11/09/2026 12:29
 46395bd2-f38d-40dc-8e35-20ef78873be0,audiogram.center,available,5.99,32.49,medium,low,9,namesilo,,,21/09/2026 02:55
@@ -852,6 +855,7 @@ bc5b5036-c2fc-43c9-839c-045d0d32cc1a,gallican.center,available,4.98,42.98,medium
 a827238d-48e8-4675-9df6-bc7f2e7601dc,depression.center,premium,242,242,medium,low,10,namesilo,,,25/09/2026 14:31
 cd73bc3a-2347-48cb-966f-34149cf70666,diner.center,available,7.99,,high,low,5,name.com,,,
 80f8da86-9254-416b-886c-f94dd6a0e389,veiled.center,available,4.98,42.98,medium,low,6,namecheap,,,13/09/2026 01:50
+ed045f09-4934-4144-b52b-4cd871ece99c,stole.center,available,5.99,32.49,high,low,5,namesilo,,,27/09/2026 05:29
 3d136721-0e72-4b04-8877-0d59a6a495c4,bhutanese.center,available,4.98,42.98,medium,low,9,namecheap,,,09/08/2026 18:24
 49e07948-7331-47ea-bb9e-0a0772f66107,songs.center,available,4.98,42.98,high,low,5,namecheap,,,25/09/2026 19:03
 58b0f9df-6468-4a89-9051-43b0abc9182f,nebulizer.center,available,4.98,42.98,high,low,9,namecheap,,,21/09/2026 00:21
@@ -864,14 +868,15 @@ d75a9611-bc56-4a25-b48f-656205a98875,practices.center,available,4.98,42.98,mediu
 7eccc1ec-5f12-4958-9f3c-334852db54b8,benevolent.center,available,4.98,42.98,high,low,10,namecheap,,,09/08/2026 14:27
 3c665f34-2b1e-4d1a-9b9a-498690924425,bucks.center,available,5.99,32.49,high,low,5,namesilo,,,25/09/2026 13:26
 4e5791e7-f8a6-4548-ace2-b229cb448127,servant.center,available,4.98,42.98,high,low,7,namecheap,,,25/09/2026 06:52
-20cb08da-945a-4b4f-ad22-0f36fcbc88d4,green.center,resell,,,high,medium,5,"Spaceship, Inc.",16/03/2014 22:00,16/03/2027 22:00,25/09/2026 17:29
+20cb08da-945a-4b4f-ad22-0f36fcbc88d4,green.center,resell,,,high,medium,5,"Spaceship, Inc.",16/03/2014 22:00,16/03/2027 22:00,26/09/2026 06:29
+22a90c48-dc7c-4f4c-973b-915223637243,crowley.center,available,5.99,32.49,medium,low,7,namesilo,,,27/09/2026 01:51
 7dc97def-9bb7-4b3f-9e95-4335f9580b88,whichever.center,available,7.99,,medium,low,9,name.com,,,
 b0dfdabb-c2bb-4d67-a14e-73974b21bfe3,heinz.center,available,5.99,32.49,high,low,5,namesilo,,,25/09/2026 07:09
 db97cb9d-8495-420a-a9ac-191a5ff6f77b,sorcerous.center,available,4.98,42.98,medium,low,9,namecheap,,,24/08/2026 13:00
 9d24b39e-c6cf-4763-b729-64f8671b0afb,trillion.center,available,4.98,42.98,high,low,8,namecheap,,,11/09/2026 19:49
 8e3a7190-7970-44bd-8382-97f8770b247d,asparagus.center,available,5.99,32.49,high,low,9,namesilo,,,20/09/2026 14:40
 706097f1-86ff-4e84-95c3-11be31db0921,repeatable.center,available,4.98,42.98,medium,low,10,namecheap,,,09/09/2026 09:08
-5e3573ce-1b69-4b64-b2c2-df91a1b56d52,strike.center,resell,,,high,low,6,"Sav.com, LLC",14/04/2026 14:46,14/04/2027 14:46,25/08/2026 00:52
+5e3573ce-1b69-4b64-b2c2-df91a1b56d52,strike.center,resell,,,high,low,6,"Sav.com, LLC",14/04/2026 14:46,14/04/2027 14:46,26/09/2026 09:21
 021ca112-e113-49aa-b048-aacc737a0b68,confess.center,available,7.99,,high,low,7,name.com,,,
 d5b4b9e1-b346-4dee-9878-8d3517c3391c,coated.center,available,4.98,42.98,medium,low,6,namecheap,,,12/08/2026 14:14
 2984bfaa-be61-4771-af78-9e20ae7d9dba,anzac.center,available,5.99,32.49,high,low,5,namesilo,,,19/09/2026 16:00
@@ -882,7 +887,7 @@ c6d12a56-dedd-47fe-a42b-0dd394662eb4,ballpark.center,available,5.99,32.49,high,l
 15050026-1e1a-41c0-bef6-4441b339217d,collapsed.center,available,5.99,41.99,low,low,9,name.com,,,20/09/2026 18:10
 837b2006-77fd-4461-afc2-c80ae1b6aba0,cardigan.center,available,5.99,32.49,high,low,8,namesilo,,,24/09/2026 12:52
 e000fab9-394b-4dbb-86c5-da95bd701ae4,jelled.center,available,4.98,42.98,medium,low,6,namecheap,,,12/08/2026 21:27
-b8ee1f0f-3466-49bc-831c-d945454bb0f2,conflict.center,resell,,,high,low,8,,,,22/09/2026 14:40
+b8ee1f0f-3466-49bc-831c-d945454bb0f2,conflict.center,resell,,,high,low,8,"Sav.com, LLC - 39",15/07/2025 15:15,15/07/2027 15:15,26/09/2026 05:11
 4a26f910-24a8-43e3-bfb2-6fe0f38e997a,unuttered.center,available,4.98,42.98,medium,low,9,namecheap,,,12/09/2026 09:47
 d859ebb9-05f5-4e79-979f-339e113efc59,fulsome.center,available,4.98,42.98,medium,low,7,namecheap,,,11/08/2026 11:40
 c105c803-adee-41d9-910b-7cb9056f6bfe,accurately.center,available,7.99,,high,low,10,name.com,,,
@@ -910,7 +915,6 @@ f52786d3-e6bf-4c59-a0ef-b397b8716599,rigorous.center,available,7.99,,high,low,8,
 812a7372-b4a4-4534-8a5a-4aeaf2f2e70c,hothead.center,available,5.99,41.99,medium,low,7,name.com,,,13/08/2026 17:45
 100b677d-b3c7-4a6d-8a43-ebdc5d17223a,fastidious.center,available,4.98,42.98,medium,low,10,namecheap,,,17/08/2026 15:30
 2df3637c-e755-4796-92ae-de4d3a140e0e,annex.center,available,7.99,,high,low,5,name.com,,,
-74da9e51-2cca-4851-98a3-4785a73581e4,walmart.center,available,,,high,high,7,,,,
 a077bef8-1323-4ede-847e-d563a14d3dbd,faddish.center,available,4.98,42.98,medium,low,7,namecheap,,,17/08/2026 20:33
 5ac2bfc6-b8fa-43f7-bf79-750b7bb8cd84,nominated.center,available,4.98,42.98,high,low,9,namecheap,,,03/09/2026 18:18
 867353c9-5e1b-4ffa-a3cf-1e9d0f4af450,millionth.center,available,4.98,42.98,high,low,9,namecheap,,,24/08/2026 23:25
@@ -934,9 +938,9 @@ e7cd92d6-09ab-4f3e-95fd-787e14b88753,keyed.center,available,4.98,42.98,medium,lo
 2387b928-d1c9-4ced-9e90-4896a1350ec0,wigeon.center,available,5.99,32.49,medium,low,6,namesilo,,,19/09/2026 03:00
 d7a1d7fd-e25b-4ab5-831e-665f81eb0b9f,astonish.center,available,7.99,,high,low,8,name.com,,,
 ab7fd336-81b4-4a4a-99ec-7e87c49c40c1,consoling.center,available,4.98,42.98,high,low,9,namecheap,,,12/08/2026 22:42
-83b9a909-d57e-4c5b-b243-ff4fa695ef2c,wear.center,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",05/06/2024 17:00,05/06/2026 17:00,
+83b9a909-d57e-4c5b-b243-ff4fa695ef2c,wear.center,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",05/06/2024 17:00,05/06/2027 17:00,26/09/2026 10:05
 c41a4666-efbb-4c4f-8815-f7c9aa476363,plattensee.center,available,4.98,42.98,medium,low,10,namecheap,,,21/09/2026 21:22
-ecfa5313-3b99-45da-a9c9-ed1618d4e86d,dialogue.center,resell,,,high,low,8,,,,24/09/2026 22:11
+ecfa5313-3b99-45da-a9c9-ed1618d4e86d,dialogue.center,resell,,,high,low,8,"DNSPod, Inc.",25/06/2024 17:00,25/06/2035 17:00,26/09/2026 05:32
 2bcadc79-e2cf-4a48-9e6e-9f932d539533,porous.center,available,4.98,42.98,medium,low,6,namecheap,,,21/08/2026 10:25
 a428a03d-35bc-4027-bcf6-499e9206ef33,quilted.center,available,4.98,42.98,medium,low,7,namecheap,,,09/09/2026 08:58
 76ebb5c7-9de9-43ab-a8fa-d72ad6124c80,baffled.center,available,4.98,42.98,medium,low,7,namecheap,,,07/08/2026 11:36
@@ -961,7 +965,7 @@ b6ea2914-2833-458b-9b62-75ada697941f,dining.center,available,7.99,,high,low,6,na
 e3eca1bf-8af7-47cc-8e22-3153605ef30f,then.center,available,7.99,,high,low,4,name.com,,,
 acfdbde0-0df4-4418-aa86-bd836a9994c3,sectarian.center,available,4.98,42.98,medium,low,9,namecheap,,,10/09/2026 01:13
 9634278d-a300-45cf-93bf-3661097d30f7,rebecca.center,available,5.99,32.49,high,low,7,namesilo,,,25/09/2026 10:16
-3ba955e6-ff87-4379-91f0-ff8278779590,earn.center,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",18/01/2020 23:18,18/01/2027 23:18,
+3ba955e6-ff87-4379-91f0-ff8278779590,earn.center,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",18/01/2020 23:18,18/01/2027 23:18,26/09/2026 05:44
 5ed6f378-4625-4aa4-b65d-d1829cddec51,arachis.center,available,5.99,32.49,medium,low,7,namesilo,,,19/09/2026 23:37
 d1af19ac-b905-4764-9b6d-9e54ce46150d,abhorrent.center,available,5.99,32.49,medium,low,9,namesilo,,,21/09/2026 13:49
 d26a29d1-0bca-44d2-afbc-42dfe256d5bc,unclouded.center,available,4.98,42.98,medium,low,9,namecheap,,,12/08/2026 12:35
@@ -995,7 +999,3 @@ f12f8c9e-0b07-41f4-b482-3211f008a65b,reptile.center,available,4.98,42.98,high,lo
 3e95c7b7-e211-4d7d-b70a-c7513b1cd840,dipolar.center,available,4.98,42.98,medium,low,7,namecheap,,,14/08/2026 08:28
 b360c153-a64e-4ca3-93bd-0a77eb720082,stealing.center,available,4.98,42.98,medium,low,8,namecheap,,,11/09/2026 13:24
 b8da4672-9bfc-453d-8b02-1a00b7f01f79,chamomile.center,available,5.99,32.49,high,low,9,namesilo,,,19/09/2026 13:01
-3f3ec2ad-dbf9-4d57-9672-cdf13ab2045b,jabiru.center,available,5.99,32.49,medium,low,6,namesilo,,,23/09/2026 23:50
-4aa00053-e4f4-4801-9cd9-4bf544895cdf,bps.center,available,5.99,32.49,high,low,3,namesilo,,,23/09/2026 22:46
-fbc4856a-842c-4004-98ab-3189dad3ffcd,faulty.center,available,4.98,42.98,medium,low,6,namecheap,,,13/08/2026 23:08
-40957866-2355-4b72-b011-accd85246861,riled.center,available,4.98,42.98,medium,low,5,namecheap,,,
