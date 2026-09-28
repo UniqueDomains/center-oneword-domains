@@ -1,10 +1,10 @@
-# Available .CENTER One-Word Domains (20,655)
+# Available .CENTER One-Word Domains (21,036)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C655%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C036%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .center one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,655 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,036 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,655 domains · **Median ask:** $7.87 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 21,036 domains · **Median ask:** $7.85 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/center`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| far.center   | available | $5.99     | $32.49        | high           | low    | 3      | namesilo                                     |
-| paths.center | resell    | $7.99     | —             | medium         | low    | 5      | GoDaddy.com, LLC                             |
-| gia.center   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                     |
-| gum.center   | available | $5.99     | $32.49        | high           | low    | 3      | namesilo                                     |
-| hiv.center   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                 |
-| nor.center   | premium   | $28       | $28           | high           | low    | 3      | namecheap                                    |
-| hoy.center   | available | $5.99     | $32.49        | high           | low    | 3      | namesilo                                     |
-| jam.center   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                  |
-| pro.center   | premium   | $512      | $512          | high           | medium | 3      | namesilo                                     |
-| peg.center   | available | $4.34     | $26.08        | high           | low    | 3      | spaceship                                    |
-| alex.center  | resell    | —         | —             | high           | medium | 4      | UM DOMAINS PTE. LTD                          |
-| vat.center   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                                     |
-| yon.center   | available | $4.98     | $42.98        | medium         | low    | 3      | namecheap                                    |
-| earn.center  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| xml.center   | premium   | $26       | $26           | medium         | low    | 3      | namecheap                                    |
-| abbe.center  | available | $4.98     | $42.98        | medium         | low    | 4      | namecheap                                    |
-| news.center  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                              |
-| cairo.center | premium   | $23.60    | $23.60        | high           | low    | 5      | namesilo                                     |
-| achy.center  | available | $4.98     | $42.98        | medium         | low    | 4      | namecheap                                    |
-| oral.center  | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| dug.center   | available | $4.34     | $26.08        | high           | low    | 3      | spaceship           |
+| paths.center | resell    | $7.99     | —             | medium         | low    | 5      | GoDaddy.com, LLC    |
+| gia.center   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| far.center   | available | $5.99     | $32.49        | high           | low    | 3      | namesilo            |
+| hiv.center   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC        |
+| nor.center   | premium   | $28       | $28           | high           | low    | 3      | namecheap           |
+| gum.center   | available | $5.99     | $32.49        | high           | low    | 3      | namesilo            |
+| jam.center   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc         |
+| pro.center   | premium   | $512      | $512          | high           | medium | 3      | namesilo            |
+| hoy.center   | available | $5.99     | $32.49        | high           | low    | 3      | namesilo            |
+| alex.center  | resell    | —         | —             | high           | medium | 4      | UM DOMAINS PTE. LTD |
+| vat.center   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| jen.center   | available | $4.34     | $26.08        | high           | low    | 3      | spaceship           |
+| news.center  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.     |
+| xml.center   | premium   | $26       | $26           | medium         | low    | 3      | namecheap           |
+| peg.center   | available | $4.34     | $26.08        | high           | low    | 3      | spaceship           |
+| oral.center  | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.        |
+| cairo.center | premium   | $23.60    | $23.60        | high           | low    | 5      | namesilo            |
+| psa.center   | available | $3.60     | $26.26        | high           | low    | 3      | porkbun             |
+| plus.center  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,655 live domains                        |
+| 1,000-row public sample | 21,036 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
