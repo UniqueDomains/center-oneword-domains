@@ -1,10 +1,10 @@
-# Available .CENTER One-Word Domains (26,698)
+# Available .CENTER One-Word Domains (28,088)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C698%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C088%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .center one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,698 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,088 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,698 domains · **Median ask:** $7.96 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 28,088 domains · **Median ask:** $7.97 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/center`
 **Best for:** founders, investors, studios
 
@@ -66,23 +66,23 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
 | cwa.center   | available | $25.20    | $25.20        | medium         | low    | 3      | cloudflare          |
 | paths.center | resell    | $7.99     | —             | medium         | low    | 5      | GoDaddy.com, LLC    |
-| gia.center   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| adf.center   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
 | dug.center   | available | $4.34     | $26.08        | high           | low    | 3      | spaceship           |
 | hiv.center   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC        |
-| nor.center   | premium   | $20.90    | $20.90        | high           | low    | 3      | spaceship           |
+| gia.center   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
 | eel.center   | available | $5.50     | —             | high           | low    | 3      | unstoppable         |
 | jam.center   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc         |
+| nor.center   | premium   | $20.90    | $20.90        | high           | low    | 3      | spaceship           |
+| eir.center   | available | $25.20    | $25.20        | high           | low    | 3      | cloudflare          |
+| scc.center   | resell    | —         | —             | high           | low    | 3      | —                   |
 | pro.center   | premium   | $512      | $512          | high           | medium | 3      | namesilo            |
 | esl.center   | available | $4.98     | $42.98        | high           | low    | 3      | namecheap           |
-| scc.center   | resell    | —         | —             | high           | low    | 3      | —                   |
+| alex.center  | resell    | —         | —             | high           | medium | 4      | UM DOMAINS PTE. LTD |
 | vat.center   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
 | gum.center   | available | $5.99     | $32.49        | high           | low    | 3      | namesilo            |
-| alex.center  | resell    | —         | —             | high           | medium | 4      | UM DOMAINS PTE. LTD |
+| foot.center  | resell    | —         | —             | high           | low    | 4      | —                   |
 | xml.center   | premium   | $26       | $26           | medium         | low    | 3      | namecheap           |
 | hoy.center   | available | $5.99     | $32.49        | high           | low    | 3      | namesilo            |
-| foot.center  | resell    | —         | —             | high           | low    | 4      | —                   |
-| cairo.center | premium   | $20.90    | $20.90        | high           | low    | 5      | spaceship           |
-| jen.center   | available | $4.34     | $26.08        | high           | low    | 3      | spaceship           |
 | news.center  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,698 live domains                        |
+| 1,000-row public sample | 28,088 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CENTER One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CENTER One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
